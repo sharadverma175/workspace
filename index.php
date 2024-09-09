@@ -3,7 +3,7 @@
 <body>
 
 <h1>My first PHP page! 
-welcome! ducat pitampura
+pitampura
 </h1>
 
 <?php
