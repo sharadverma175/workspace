@@ -2,12 +2,11 @@
 <html>
 <body>
 
-<h1>My first PHP page! 
-pitampura
+<h1>Hello World! i am sharad verma from jaunpur
 </h1>
 
 <?php
-echo "Hello World! i am sharad verma from jaunpur";
+echo "";
 ?>
 
 </body>
