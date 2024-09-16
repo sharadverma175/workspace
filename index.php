@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Hello World! i am sharad verma from jaunpur
+<h1>Hello World! i am sharad verma
 </h1>
 
 <?php
